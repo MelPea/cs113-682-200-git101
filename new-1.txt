@@ -1,1 +1,3 @@
-add file new-1 in git102 and push
+ADD FILE to new-1 in git102 and push
+
+add anther line ut different from git102
